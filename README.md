@@ -15,9 +15,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file with your OpenAI API key:
+3. Create a `.env` file with your Google Generative AI API key:
 ```
-OPENAI_API_KEY=your_api_key_here
+GOOGLE_API_KEY=your_api_key_here
 ```
 
 ## Project Structure
